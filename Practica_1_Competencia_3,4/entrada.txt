@@ -1,0 +1,2 @@
+Soy Adrian Sanchez Villegas soy alumno del Tecnologico de Estudios Superiores de Jocotilan 5 y todo este texto 
+se ordenara en el archivo de salida como prioridad primero son numeros 1 9 2 despues Mayusculas AA y al final minusucas aa 
